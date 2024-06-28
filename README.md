@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about making a recipe website. It will include different recipes with ingredients and steps to follow. By completing this project, I will demonstrate skills in HTML,basic web design. This project has helped me learn how to create a functional website.
